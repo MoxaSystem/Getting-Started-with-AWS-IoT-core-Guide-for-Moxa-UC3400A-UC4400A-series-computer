@@ -21,7 +21,7 @@ The UC-3400A/UC-4400A computing platform is designed for embedded data-acquisiti
 
 The UC-3400A/UC-4400A is built around a Cortex-A53 processor that has been optimized for use in energy monitoring systems, but is widely applicable to a variety of industrial solutions. With flexible interfacing options, this tiny embedded computer is a reliable and secure gateway for data acquisition and processing at field sites as well as a useful communications platform for many other large-scale deployments.
 
-Additionally, UC-2200A series support Wide-temperature and LTE. All units of UC-2200A series are thoroughly tested in a testing chamber, guaranteeing that the LTE-enabled computing platforms are suitable for wide-temperature applications.
+Additionally, UC-3400A/UC-4400A series support Wide-temperature and LTE. All units of UC-3400A/UC-4400A series are thoroughly tested in a testing chamber, guaranteeing that the LTE-enabled computing platforms are suitable for wide-temperature applications.
 # Hardware Description
 
 ## DataSheet
