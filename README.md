@@ -28,7 +28,7 @@ Additionally, UC-3400A/UC-4400A series support Wide-temperature and LTE. All uni
 
 [UC-3400A series](https://cdn-cms-frontdoor-dfc8ebanh6bkb3hs.a02.azurefd.net/getmedia/67e7ba24-84eb-465b-9922-87739a8b17e1/moxa-uc-3400a-series-datasheet-v1.0.pdf)
 
-[UC-00A series](https://cdn-cms-frontdoor-dfc8ebanh6bkb3hs.a02.azurefd.net/getmedia/2d63a2b2-e2bf-405c-b712-d4e92007114e/moxa-uc-4400a-series-datasheet-v1.1.pdf)
+[UC-4400A series](https://cdn-cms-frontdoor-dfc8ebanh6bkb3hs.a02.azurefd.net/getmedia/2d63a2b2-e2bf-405c-b712-d4e92007114e/moxa-uc-4400a-series-datasheet-v1.1.pdf)
 
 ## Standard Kit Contents
 
@@ -147,7 +147,7 @@ To view the MQTT messages published by the sample app in the AWS IoT console, pe
 
 1. Not able to login Moxa UC-3400A/UC-4400A series computer's through SSH terminal.
 
-    Connect console port of Moxa UC-3400A/UC-4400A series computer, and then power it up. Once the system is ready, a login prompt will appear on your monitor. Refer to Connecting through the Serial Console of [**Moxa UC-3400A/UC-4400A series computer-linux-user-manual](https://cdn-cms.azureedge.net/getmedia/bf07835c-fdca-43c2-8879-0eaa24bdcd4d/moxa-industrial-linux-3-debian-11-manual-with-security-hardening-guide-v1.0.pdf)** for the detail steps. After login Moxa computer check following items:
+    Connect console port of Moxa UC-3400A/UC-4400A series computer, and then power it up. Once the system is ready, a login prompt will appear on your monitor. Refer to Connecting through the Serial Console of [**Moxa UC-3400A/UC-4400A series computer-linux-user-manual](https://cdn-cms-frontdoor-dfc8ebanh6bkb3hs.a02.azurefd.net/getmedia/2a7876ef-64ed-43b6-af1c-63544980b003/moxa-arm-comp-mil-3.x-debian-11-security-hardening-guide-manual-v2.1.pdf)** for the detail steps. After login Moxa computer check following items:
 
     a. Check if IP address of LAN1/LAN2 is in the same subnet of your PC.
 
