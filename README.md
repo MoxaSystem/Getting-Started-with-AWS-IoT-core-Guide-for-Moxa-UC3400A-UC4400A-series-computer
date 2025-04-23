@@ -13,8 +13,8 @@
 | Version | Date        | Description of change |
 | ------- | ----------- | --------------------- |
 | 1       | 2025/04/08  | First release         |
-| 2       | 2025/04/23  | update typo,          |
-|                       | manual's link         |
+| 2       | 2025/04/23  | update typo, manual's link         |
+
 
 # Overview
 
